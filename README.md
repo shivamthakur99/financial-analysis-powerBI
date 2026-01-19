@@ -19,7 +19,7 @@ The project is designed as a **self-initiated portfolio project** to demonstrate
 
 ---
 
-<h2> <a class="anchor"id="#Objectives"></a>🎯 Objectives </h2>
+<h2> <a class="anchor"id="Objectives"></a>🎯 Objectives </h2>
 
 * Analyze overall **sales, profit, discounts, and profit margins**
 * Identify **top-performing products and underperforming areas**

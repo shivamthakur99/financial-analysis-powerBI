@@ -4,7 +4,7 @@
 - <a href ="#Project Overview">Project Overview</a>
 - <a href ="#Objectives">Objectives</a>
 - <a href ="#Tools & Technologies">Tools & Technologies</a>
-- <a href ="#Key Metrics Analyzed">Key Metrics Analyzed>
+- <a href ="#Key Metrics Analyzed">Key Metrics Analyzed</a>
 - <a href ="#Key Insights">Key Insights</a>
 - <a href ="#Dashboard Highlights">Dashboard Highlights</a>
 - <a href ="#Business Recommendations">Business Recommendations</a>

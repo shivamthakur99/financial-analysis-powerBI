@@ -95,8 +95,9 @@ The project is designed as a **self-initiated portfolio project** to demonstrate
 <h2> <a class="anchor" id="Author"></a>👤 Author </h2>
 
 **Shivam Kumar Thakur**<br>
-Business Analytics Enthusiast<br>
-📌 Skills: Power BI, Excel, DAX measure, Data Cleaning
+Business Analyst<br>
+Email:<a href="shivamkthakur99@gmail.com">shivamkthakur99@gmail.com</a><br>
+Profile:<a href="www.linkedin.com/in/shivam-kumar-thakur-45b14a197">LinkedIn</a>
 
 ---
 

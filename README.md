@@ -1,6 +1,10 @@
 # 📊 Financial Performance Analysis
 
-## 📌 Project Overview
+## 📌 Table of Contents
+- <a href ="#Project Overview">Project Overview</a>
+
+
+<h2> <a class="anchor"id="#Project Overview"></a>📌 Project Overview </h2>
 
 This project presents a comprehensive **financial performance analysis** using historical sales data for the years **2013–2014**. The analysis focuses on understanding **sales trends, profitability, product performance, customer segments, and geographic distribution** to support data-driven business decisions.
 

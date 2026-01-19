@@ -38,7 +38,7 @@ The project is designed as a **self-initiated portfolio project** to demonstrate
 
 ---
 
-<h2> <a class="anchor"id="#Key Metrics Analyzed"></a>📈 Key Metrics Analyzed</h2>
+<h2> <a class="anchor"id="Key Metrics Analyzed"></a>📈 Key Metrics Analyzed</h2>
 
 * Total Sales
 * Total Profit

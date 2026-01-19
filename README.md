@@ -29,7 +29,7 @@ The project is designed as a **self-initiated portfolio project** to demonstrate
 
 ---
 
-<h2> <a class="anchor"id="#Tools & Technologies"></a>🛠 Tools & Technologies</h2>
+<h2> <a class="anchor" id="#Tools & Technologies"></a>🛠 Tools & Technologies</h2>
 
 * **Power BI** – Data visualization & dashboarding
 * **Excel** – Data cleaning and preprocessing
@@ -38,7 +38,7 @@ The project is designed as a **self-initiated portfolio project** to demonstrate
 
 ---
 
-<h2> <a class="anchor"id="#Key Metrics Analyzed"></a>📈 Key Metrics Analyzed</h2>
+<h2> <a class="anchor" id="#Key Metrics Analyzed"></a>📈 Key Metrics Analyzed</h2>
 
 * Total Sales
 * Total Profit
@@ -49,7 +49,7 @@ The project is designed as a **self-initiated portfolio project** to demonstrate
 
 ---
 
-<h2> <a class="anchor"id="#Key Insights"></a>🔍 Key Insights</h2>
+<h2> <a class="anchor" id="#Key Insights"></a>🔍 Key Insights</h2>
 
 * Generated **118.7M in total sales** with a **14.23% profit margin**
 * **Government and Small Business segments** contribute nearly **80% of total sales**
@@ -59,7 +59,7 @@ The project is designed as a **self-initiated portfolio project** to demonstrate
 
 ---
 
-<h2> <a class="anchor"id="#Dashboard Highlights"></a>📊 Dashboard Highlights </h2>
+<h2> <a class="anchor" id="#Dashboard Highlights"></a>📊 Dashboard Highlights </h2>
 
 * Sales & Profit Trend Analysis (2013 vs 2014)
 * Product Performance Comparison
@@ -78,7 +78,7 @@ The project is designed as a **self-initiated portfolio project** to demonstrate
 
 ---
 
-<h2> <a class="anchor"id="#Project Structure"></a>📁 Project Structure </h2>
+<h2> <a class="anchor" id="#Project Structure"></a>📁 Project Structure </h2>
 
 ```
 📦 Financial-Performance-Analysis
